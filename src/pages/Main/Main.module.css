@@ -1,0 +1,9 @@
+.post_keeper {
+    max-width: 830px
+}
+
+.post_keeper > div {
+    max-width: 400px;
+    margin-bottom: 3em;
+    min-height: 100%;
+}
